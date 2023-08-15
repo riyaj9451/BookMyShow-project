@@ -144,8 +144,5 @@ Returns the newly created booking in JSON format
 ## Support
 
 For support, **email**
-- vv0520273@gmail.com
+- riyaj945149@gmail.com
 
-or connect on **linkedin**
-
-- Virendra Verma :- linkedin.com/in/virendra-verma-ba4181221
