@@ -57,7 +57,7 @@ Create a pull request.
 
 click on the line to see the project 
 
- - https://getbookmyshow.netlify.app
+ - https://bookmyshow11.netlify.app/
 
 ## Installation
 
