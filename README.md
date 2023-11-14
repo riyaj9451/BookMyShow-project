@@ -89,7 +89,7 @@ npm start
 ## How to use
  
 Click on this link for using the website
- - https://getbookmyshow.netlify.app
+ - https://bookmyshow11.netlify.app/
  1) First select movie you like 
  2) select time schedule 
  3) select seats
